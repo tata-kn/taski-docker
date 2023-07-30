@@ -8,7 +8,7 @@ SECRET_KEY = 'django-insecure-j_89af+30&&4qm*8z9_(^zz8p4-ho8z_m6ylm0s$h!-p@on1_^
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['51.250.105.5', '127.0.0.1', '8000', 'localhost', 'tata-kn.hopto.org']
+ALLOWED_HOSTS = ['51.250.97.205', '127.0.0.1', '8000', 'tata-kn.hopto.org']
 
 
 # Application definition
