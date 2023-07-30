@@ -28,6 +28,6 @@ services:
     build: ./gateway/
     env_file: .env
     volumes:
-      - static:/staticfiles
+      - static:/staticfiles/
     ports:
       - 8000:80
